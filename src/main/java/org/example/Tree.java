@@ -2,7 +2,7 @@ package org.example;
 
 import java.io.File;
 
-public class Main {
+public class Tree {
     static final String START_END = "└─";
     static final String ADD_INDENT = "  ";
     static final String BRANCH = "├─";
